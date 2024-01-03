@@ -1,2 +1,16 @@
-# World-Time-Clock
-Discover the world's time at your fingertips with the beginner-friendly Flutter World Time Clock app. Effortlessly view current times worldwide, customize your clock, and enjoy a sleek interface with day and night themes. Perfect for travelers and time zone enthusiasts, stay connected with the world in a visually appealing way.
+# world_time
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
